@@ -25,6 +25,12 @@ This repository addresses topics that were seen in Discipline DCC013- Data Struc
 
 >If you are just starting to code, it is very necessary that you learn the main Data Structures, as they are common in most programming languages, and you can reuse your programming logic!
 
+# Support material
+Below are the support materials for your studies:
+- [Classes](https://github.com/vitoria-isabela/Estruturas-de-Dados/tree/master/Classes/Aulas)
+- [ListOfExercises](https://github.com/vitoria-isabela/Estruturas-de-Dados/tree/master/ListOfExercises/Listas%20de%20Exerc%C3%ADcios)
+- [TestsAlreadyPerformed](https://github.com/vitoria-isabela/Estruturas-de-Dados/tree/master/TestsAlreadyPerformed/TVCs%20Anteriores)
+
 # Projects
 
 So far we have the following projects:
