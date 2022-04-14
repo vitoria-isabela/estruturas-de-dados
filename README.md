@@ -10,7 +10,7 @@
     - [Contigua-Encadeada](##Contigua-Encadeada)
     - [DuplaEncad-pilha-Fila](##DuplaEncad-pilha-Fila)
     - [Binaria-Busca](##Binaria-Busca)
-- [Languages](#Languages)  
+- [Language](#Language)  
 - [Contacts](#Contacts)
   
 </div>
