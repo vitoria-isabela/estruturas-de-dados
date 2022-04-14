@@ -4,14 +4,14 @@
 - [Overview](#overview)
 - [Support material](#Support-material)
 - [Projects](#Projects)
-    - [Ponteiros-Recursividade](#Ponteiros-Recursividade)
-    - [TAD-Matriz](#TAD-Matriz)
-    - [TAD-2aChamada](#TAD-2aChamada)
-    - [Contigua-Encadeada](#Contigua-Encadeada)
-    - [DuplaEncad-pilha-Fila](#DuplaEncad-pilha-Fila)
-    - [Binaria-Busca](#Binaria-Busca)
-- [Language](#Language)  
-- [Contacts](#Contacts)
+    - [Ponteiros-Recursividade](# Ponteiros-Recursividade)
+    - [TAD-Matriz](# TAD-Matriz)
+    - [TAD-2aChamada](# TAD-2aChamada)
+    - [Contigua-Encadeada](# Contigua-Encadeada)
+    - [DuplaEncad-pilha-Fila](# DuplaEncad-pilha-Fila)
+    - [Binaria-Busca](# Binaria-Busca)
+- [Language](# Language)  
+- [Contacts](# Contacts)
   
 </div>
 
