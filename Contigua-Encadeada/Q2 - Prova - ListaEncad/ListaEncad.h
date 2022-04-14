@@ -1,0 +1,25 @@
+﻿#pragma once
+#include "No.h"
+
+class ListaEncad
+{
+private:
+    No* primeiro;
+    No* ultimo;
+    int n;
+public:
+    ListaEncad();
+    ~ListaEncad();
+
+    void insereInicio(int val);
+    void insereInicio(int val, int novo_n);
+    void removeInicio();  ///remove 1o n� da lista
+    void insereFinal(int val);
+    void removeFinal();
+
+    bool busca(int val);
+    void imprimir();
+    int* menorProximo();
+
+    void setn(int novo_n);
+};
