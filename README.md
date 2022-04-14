@@ -2,6 +2,7 @@
   
 ## Contents
 - [Overview](#overview)
+- [Support material](#Support-material)
 - [Projects](#Projects)
     - [Ponteiros-Recursividade](##Ponteiros-Recursividade)
     - [TAD-Matriz](##TAD-Matriz)
