@@ -17,11 +17,11 @@
 # Overview
 This repository addresses topics that were seen in Discipline DCC013- Data Structure of the Federal University of Juiz de Fora - UFJF. The course was divided into 5 Topics covered, which are:
 
-- ## Ponteiros e Recursividade
-- ## TAD e Matriz
-- ## Lista Contigua e Lista Encadeada
-- ## Lista Duplamente Encadeada - pilha - Fila
-- ## Árvore Binária e Arvore Binária de Busca
+- #### Ponteiros e Recursividade
+- #### TAD e Matriz
+- #### Lista Contigua e Lista Encadeada
+- #### Lista Duplamente Encadeada - pilha - Fila
+- #### Árvore Binária e Arvore Binária de Busca
 
 >If you are just starting to code, it is very necessary that you learn the main Data Structures, as they are common in most programming languages, and you can reuse your programming logic!
 
