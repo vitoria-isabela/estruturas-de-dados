@@ -1,5 +1,4 @@
-<div style="border: solid 1px; width: fit-content; padding: 0px 20px 20px 20px; border-color: rgba(234,234,234,1)">
-  
+
 ## Contents
 - [Overview](#overview)
 - [Support material](#Support-material)
@@ -13,7 +12,7 @@
 - [Language](#Language)  
 - [Contacts](#Contacts)
   
-</div>
+***
 
 # Overview
 This repository addresses topics that were seen in Discipline DCC013- Data Structure of the Federal University of Juiz de Fora - UFJF. The course was divided into 5 Topics covered, which are:
