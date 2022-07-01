@@ -9,7 +9,6 @@
     - [Contigua-Encadeada](https://github.com/vitoria-isabela/Estruturas-de-Dados/tree/master/Contigua-Encadeada)
     - [DuplaEncad-pilha-Fila](https://github.com/vitoria-isabela/Estruturas-de-Dados/tree/master/DuplaEncad-pilha-Fila)
     - [Binaria-Busca](https://github.com/vitoria-isabela/Estruturas-de-Dados/tree/master/Binaria-Busca)
-- [Language](#Language)  
 - [Contacts](#Contacts)
   
 ***
@@ -41,9 +40,6 @@ So far we have the following projects:
 -  [DuplaEncad-pilha-Fila](https://github.com/vitoria-isabela/Estruturas-de-Dados/tree/master/DuplaEncad-pilha-Fila)
 -  [Binaria-Busca](https://github.com/vitoria-isabela/Estruturas-de-Dados/tree/master/Binaria-Busca)
  
- # Language
- This repository was made in the **Portuguese language (Brazil)**, but if you don't speak Portuguese, you can use the Google Chrome translator :smiley:
-
 # Contacts
 
 If you have any questions or improvements for this repository, you can contact me in the following ways:
